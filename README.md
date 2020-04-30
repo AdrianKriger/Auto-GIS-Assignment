@@ -1,6 +1,7 @@
 Assignment: Urban Indicators
 
 This will be a granular assessment. Suburb or neighborhood level.
+
 Data
 
     The data will mostly come from local South African sources:
@@ -15,7 +16,7 @@ Data
 
 The tool will attempt to calculate several indicators about the selected area or areas:
 
-(this might not be a comparison but an assessment - The City of Cape Town has its own ECAMP evalutation. I don't know how it comes up with its numbers but it will give me a ground truth to gauge my results with)
+(this might not be a comparison but an assessment - The City of Cape Town has its own [ECAMP](https://web1.capetown.gov.za/web1/ecamp) evalutation. I don't know how it comes up with its numbers but it will give me a ground truth to gauge my results with)
 
     Population distribution and demographics
         Key statistics with graphs
