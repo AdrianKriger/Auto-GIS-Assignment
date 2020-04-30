@@ -9,7 +9,7 @@ Data
         Western Cape Government
         Statistics South Africa (StatsSA)
         South African Police Service
-        CSIR
+        Council for Scientific and Industrial Research (CSIR)
 
     Although there is a strong possibility of using the:
         Global Human Settlements (GHS) 250m Population layer as well.
