@@ -7,7 +7,7 @@ This will be a granular assessment. Suburb or neighborhood level.
 
  - The data will mostly come from local South African sources:
  
-    - [City of Cape Town Open Data](https://www.capetown.gov.za)
+    - [City of Cape Town](https://www.capetown.gov.za)
     - [Western Cape Government](https://www.westerncape.gov.za)
     - [Statistics South Africa (StatsSA)](http://www.statssa.gov.za)
     - [South African Police Service](https://www.saps.gov.za)
