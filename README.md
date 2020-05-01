@@ -16,7 +16,7 @@ This will be a granular assessment. Suburb or neighborhood level.
      
  - Although there is a strong possibility of using the:
  
-     - Global Human Settlements (GHS) 250m Population layer as well.
+     - [Global Human Settlements Population (GHS-POP)](https://ghsl.jrc.ec.europa.eu/datasets.php) 250m  layer as well.
 
 ### The tool will attempt to calculate several indicators about the selected area or areas:
 *(this might not be a comparison but an assessment - The City of Cape Town has its own [ECAMP](https://web1.capetown.gov.za/web1/ecamp) evalutation. I don't know how it comes up with its numbers but it will give me a ground truth to gauge my results with)*
