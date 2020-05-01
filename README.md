@@ -2,14 +2,14 @@ Assignment: Urban Indicators
 
 This will be a granular assessment. Suburb or neighborhood level.
 
-Data
+Data:
 
     The data will mostly come from local South African sources:
-        - [City of Cape Town Open Data](https://www.capetown.gov.za/)
-        - [Western Cape Government](https://www.westerncape.gov.za/)
-        - [Statistics South Africa (StatsSA)](http://www.statssa.gov.za/)
-        - [South African Police Service](https://www.saps.gov.za/)
-        - [Council for Scientific and Industrial Research (CSIR)](https://www.csir.co.za/)
+        - [City of Cape Town Open Data](https://www.capetown.gov.za)
+        - [Western Cape Government](https://www.westerncape.gov.za)
+        - [Statistics South Africa (StatsSA)](http://www.statssa.gov.za)
+        - [South African Police Service](https://www.saps.gov.za)
+        - [Council for Scientific and Industrial Research (CSIR)](https://www.csir.co.za)
 
     Although there is a strong possibility of using the:
         - Global Human Settlements (GHS) 250m Population layer as well.
