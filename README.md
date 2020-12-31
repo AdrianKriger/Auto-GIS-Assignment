@@ -1,58 +1,33 @@
-Assignment: Urban Indicators
+Assignment: Accessibility
 ========================
 
-This will be a granular assessment. Suburb or neighborhood level. 
+This project has changed its scope. In the spirit of "la Ville des proximités" it will attempt to understand how accessisible the City of Cape Town is to those who walk and cycle. Accessisibility will be measured at 15 minutes walking and 15 minutes cycling.
 
 ### Data
 
  - The data will mostly come from local South African sources:
  
     - [City of Cape Town](https://www.capetown.gov.za)
-    - [Western Cape Government](https://www.westerncape.gov.za)
     - [Statistics South Africa (StatsSA)](http://www.statssa.gov.za)
-    - [South African Police Service](https://www.saps.gov.za)
     - [Council for Scientific and Industrial Research (CSIR)](https://www.csir.co.za)
-    
-     
- - Although there is a strong possibility of using the:
- 
-     - [Global Human Settlements Population (GHS-POP)](https://ghsl.jrc.ec.europa.eu/datasets.php) 250m  layer as well.
+    - [Open Street Map[(https://wiki.openstreetmap.org/wiki/Main_Page7)
 
-### The tool will attempt to calculate several indicators about the selected area or areas:
-*(this might not be a comparison but an assessment - The City of Cape Town has its own [ECAMP](https://web1.capetown.gov.za/web1/ecamp) evalutation. I don't know how it comes up with its numbers but it will give me a ground truth to gauge my results with)*
+### The tool will attempt to understand how accessible the City is:
 
 - Population distribution and demographics
 
     - Key statistics with graphs
     
-    
+   
 - Population growth
 
-    - Compare population from at least two different years
+    - Compare population from at least two different years *(with a possible projection)*.
     - Visualize as graphs
     
 
 - Accessibility:
 
-     - Travel Times will focus on accessability to schools, health care and public transport. Also to one or more economic hubs (thus walking and driving).
-     - Travel time calculation will be done through ```shortest paths``` on a road and along the local Integrated Bus-Rapid Transit network
-     - Dominance areas will cull population numbers from the GHS layer.
+     - Travel Times/Distance will focus on accessibility to employment and amenities [parks, schools, resturants, etc].
      - Visualization through graphs and maps
      
-
-- Green area index
-
-     - Calculate the percentage of green areas.
-     - Visualize the results.
-     
-
-- Street network metrics
-
-    - Fetch street network data or use CoCT Open Data
-    - Calculate street network metrics
-    - Visualize the results
-    
-
-- Building density and Air Quality
-
-    - Building polygons might be a challenge in South Africa and air quality might not be available for the area of interest. I'll look into it.
+  ### Hopefully if everything falls into place a "walk-score" type metric for each suburb can be calculated.
