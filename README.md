@@ -30,4 +30,4 @@ This project has changed its scope. In the spirit of *"la Ville des proximités"
      - Travel Times/Distance will focus on accessibility to employment and amenities [parks, schools, resturants, etc].
      - Visualization through graphs and maps
      
-  ## Hopefully if everything falls into place a "walk-score" type metric for each suburb can be calculated.
+  Hopefully if everything falls into place a "walk-score" type metric for each suburb can be calculated.
