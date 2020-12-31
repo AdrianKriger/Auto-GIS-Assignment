@@ -16,11 +16,7 @@ This project has changed its scope. In the spirit of *"la Ville des proximités"
 
 - Population distribution and demographics
 
-    - Key statistics with graphs
-    
-   
-- Population growth
-
+    - Key statistics
     - Compare population from at least two different years *(with a possible projection)*.
     - Visualize as graphs
     
