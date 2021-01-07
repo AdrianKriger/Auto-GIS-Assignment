@@ -14,13 +14,6 @@ This project has changed its scope. In the spirit of *"la Ville des proximités"
 
 ### The tool will attempt to understand how accessible the City is:
 
-- Population distribution and demographics
-
-    - Key statistics
-    - Compare population from at least two different years *(with a possible projection)*.
-    - Visualize as graphs
-    
-
 - Accessibility:
 
      - Travel Times/Distance will focus on accessibility to employment and amenities [parks, schools, resturants, etc].
