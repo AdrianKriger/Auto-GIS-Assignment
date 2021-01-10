@@ -8,7 +8,7 @@ This project has changed its scope. In the spirit of *"la Ville des proximités"
  - The data will mostly come from local South African sources:
  
     - [City of Cape Town](https://www.capetown.gov.za)
-    ## - [Statistics South Africa (StatsSA)](http://www.statssa.gov.za)
+    // - [Statistics South Africa (StatsSA)](http://www.statssa.gov.za)
     - [Council for Scientific and Industrial Research (CSIR)](https://www.csir.co.za)
     - [Open Street Map](https://wiki.openstreetmap.org/wiki/Main_Page7)
 
