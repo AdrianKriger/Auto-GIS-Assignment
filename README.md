@@ -1,7 +1,7 @@
 Assignment: Accessibility
 ========================
 
- ![](img/Traveltime_to_PublicTransport.html)
+  ![](img/Traveltime_to_PublicTransport.html)
 
 This project has changed its scope. In the spirit of *"la Ville des proximités"* it will attempt to understand how accessible the City of Cape Town is to those who walk and cycle. Accessibility will be measured at 15 minutes walking and 15 minutes cycling. ~ as more interesting data becomes available the content of this repository will change.
 
