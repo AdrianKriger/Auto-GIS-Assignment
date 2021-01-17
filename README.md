@@ -18,6 +18,6 @@ This project has changed its scope. In the spirit of *"la Ville des proximités"
      - Travel Times/Distance will focus on accessibility to employment, amenities [parks, schools, resturants, etc] and local Bus Rapid Transit service (MyCiTi).
      - Visualization through graphs and maps.
      
-     ![image](./img/Traveltime_to_PublicTransport.html/200/300?style=centerme)
+     ![image](https://github.com/AdrianKriger/Auto-GIS-Assignment/blob/master/img/Traveltime_to_PublicTransport.html?style=centerme)
      
     // ![](./img/Traveltime_to_PublicTransport.html)
